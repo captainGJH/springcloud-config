@@ -1,1 +1,2 @@
-branch-dev-config-prod.yml
+config:
+  info: branch-dev-config-prod.yml
