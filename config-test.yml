@@ -1,1 +1,2 @@
-branch-dev-config-test.yml
+config:
+  info: branch-dev-config-test.yml
